@@ -1,0 +1,6 @@
+E:\код\трпо\трпо\bin\Debug\трпо.exe.config
+E:\код\трпо\трпо\bin\Debug\трпо.exe
+E:\код\трпо\трпо\bin\Debug\трпо.pdb
+E:\код\трпо\трпо\obj\Debug\трпо.csprojResolveAssemblyReference.cache
+E:\код\трпо\трпо\obj\Debug\трпо.exe
+E:\код\трпо\трпо\obj\Debug\трпо.pdb
